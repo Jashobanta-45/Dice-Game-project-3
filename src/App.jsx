@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Entrypage from './components/Entrypage/Entrypage'
-import GAmepage from './components/gamepage/GAmepage'
+import GAmepage from './components/gamepage/Gamepage'
 
 const App = () => {
 const [Ispaly, setIspaly] = useState(false)
